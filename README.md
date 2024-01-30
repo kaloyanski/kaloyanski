@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaloyanski
-- 👀 I’m interested in music, programming and literature
+- 👋 Hi, I’m Kalo
+- 👀 I’m interested in embedded linux, python/c/c++ programming and experimental data analysis
 - 🌱 I’m currently working on embedded operating systems
 - 📫 Reach kaloyan at triplehelix-consulting dot com
 
