@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Kalo
-- 👀 I’m interested in embedded linux, python/c/c++ programming and experimental data analysis
-- 🌱 I’m currently working on embedded operating systems
-- 📫 Reach kaloyan at triplehelix-consulting dot com
+- 👋 Hi, I’m Kalo, github.com/kaloyanski is out of date
+- 🌱 Find my projects in github.com/kaloyansen 
+- 📫 Reach me at kaloyansen at gmail dot com
 
 <!---
 kaloyanski/kaloyanski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
