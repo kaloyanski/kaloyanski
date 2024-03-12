@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kalo, github.com/kaloyanski is out of date
-- 🌱 Projects have been transfered to github.com/kaloyansen 
+- 🌱 Repositories have been transfered to github.com/kaloyansen 
 - 📫 Reach me at kaloyansen at gmail dot com
 
 <!---
